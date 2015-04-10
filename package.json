@@ -1,0 +1,36 @@
+{
+  "name": "cache-middleware",
+  "version": "0.0.2",
+  "description": "Cache middleware in redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^0.11.0",
+    "bluebird": "^2.2.2",
+    "node-sha1": "0.0.1"
+  },
+  "_id": "cache-middleware@0.0.2",
+  "dist": {
+    "shasum": "c0bea10287bab7ed376c2dd14237d5ca5dda09e1",
+    "tarball": "http://registry.npmjs.org/cache-middleware/-/cache-middleware-0.0.2.tgz"
+  },
+  "_from": "cache-middleware@*",
+  "_npmVersion": "1.4.3",
+  "_npmUser": {
+    "name": "leahcimic",
+    "email": "leahcimic@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "leahcimic",
+      "email": "leahcimic@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_shasum": "c0bea10287bab7ed376c2dd14237d5ca5dda09e1",
+  "_resolved": "https://registry.npmjs.org/cache-middleware/-/cache-middleware-0.0.2.tgz"
+}
